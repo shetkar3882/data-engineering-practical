@@ -1,0 +1,4 @@
+sale_id,store_branch,units_sold,revenue,sale_date
+N-001,Delhi-NCR,45,67500.00,2026-09-01
+N-002,Chandigarh,30,45000.00,2026-09-02
+N-003,Jaipur,25,37500.00,2026-09-03

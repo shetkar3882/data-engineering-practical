@@ -1,0 +1,42 @@
+{
+  "collection": "product_events",
+  "count": 3,
+  "documents": [
+    {
+      "event_id": "EVT-9001",
+      "user_id": "U101",
+      "membership_tier": "GOLD",
+      "product_sku": "SKU-LAP-01",
+      "product_name": "UltraBook Pro 15",
+      "category": "Electronics",
+      "base_price": 75000.0,
+      "tax_rate": 0.18,
+      "gross_price": 88500.0,
+      "event_timestamp": "2026-09-01 10:15:30"
+    },
+    {
+      "event_id": "EVT-9002",
+      "user_id": "U102",
+      "membership_tier": "STANDARD",
+      "product_sku": "SKU-MOU-02",
+      "product_name": "Wireless Ergonomic Mouse",
+      "category": "Accessories",
+      "base_price": 2500.0,
+      "tax_rate": 0.12,
+      "gross_price": 2800.0,
+      "event_timestamp": "2026-09-01 10:18:45"
+    },
+    {
+      "event_id": "EVT-9003",
+      "user_id": "U103",
+      "membership_tier": "PLATINUM",
+      "product_sku": "SKU-MON-03",
+      "product_name": "4K Curved Monitor 32-inch",
+      "category": "Electronics",
+      "base_price": 42000.0,
+      "tax_rate": 0.18,
+      "gross_price": 49560.0,
+      "event_timestamp": "2026-09-01 10:22:10"
+    }
+  ]
+}

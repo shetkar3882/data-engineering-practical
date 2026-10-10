@@ -1,0 +1,10 @@
+sale_id,store_branch,units_sold,revenue,sale_date,region,source_file
+E-001,Kolkata,40,60000.0,2026-09-01,East,regional_sales_east.csv
+E-002,Bhubaneswar,20,30000.0,2026-09-02,East,regional_sales_east.csv
+E-003,Guwahati,18,27000.0,2026-09-03,East,regional_sales_east.csv
+N-001,Delhi-NCR,45,67500.0,2026-09-01,North,regional_sales_north.csv
+N-002,Chandigarh,30,45000.0,2026-09-02,North,regional_sales_north.csv
+N-003,Jaipur,25,37500.0,2026-09-03,North,regional_sales_north.csv
+S-001,Bangalore,80,120000.0,2026-09-01,South,regional_sales_south.csv
+S-002,Chennai,55,82500.0,2026-09-02,South,regional_sales_south.csv
+S-003,Hyderabad,60,90000.0,2026-09-03,South,regional_sales_south.csv

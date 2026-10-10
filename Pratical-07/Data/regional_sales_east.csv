@@ -1,0 +1,4 @@
+sale_id,store_branch,units_sold,revenue,sale_date
+E-001,Kolkata,40,60000.00,2026-09-01
+E-002,Bhubaneswar,20,30000.00,2026-09-02
+E-003,Guwahati,18,27000.00,2026-09-03

@@ -1,0 +1,4 @@
+sale_id,store_branch,units_sold,revenue,sale_date
+S-001,Bangalore,80,120000.00,2026-09-01
+S-002,Chennai,55,82500.00,2026-09-02
+S-003,Hyderabad,60,90000.00,2026-09-03
