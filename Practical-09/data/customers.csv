@@ -1,0 +1,4 @@
+customer_id,name,email,signup_date
+CUST_1,Alice Smith, ALICE@Example.com ,2026-01-10
+CUST_2,Bob Jones,bob@work.net,2026-02-15
+CUST_3,Charlie Brown,Charlie.B@Corp.org,2026-03-01

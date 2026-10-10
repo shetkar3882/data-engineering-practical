@@ -1,0 +1,8 @@
+transaction_id,region,category,amount,discount_pct
+TXN_101,North,Electronics,12000.0,0.10
+TXN_102,North,Clothing,,0.05
+TXN_103,South,Electronics,15000.0,0.15
+TXN_104,West,Furniture,8000.0,0.00
+TXN_105,East,Clothing,2500.0,0.00
+TXN_106,South,Furniture,,0.20
+TXN_101,North,Electronics,12000.0,0.10

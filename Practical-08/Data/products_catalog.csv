@@ -1,0 +1,7 @@
+product_id,product_name,category,supplier
+PROD-E1,Dell XPS 15,Electronics,Dell India
+PROD-E2,Apple iPad Air,Electronics,Apple Corp
+PROD-F1,Ergonomic Office Chair,Furniture,Featherlite
+PROD-F2,Executive Wooden Desk,Furniture,Godrej Interio
+PROD-B1,Clean Code by Robert Martin,Books,Pearson Publishing
+PROD-B2,Designing Data-Intensive Applications,Books,O'Reilly Media

@@ -1,0 +1,5 @@
+order_id,customer_id,product_id,quantity,order_date
+ORD_901,CUST_1,PROD_A,2,2026-06-01
+ORD_902,CUST_2,PROD_B,1,2026-06-02
+ORD_903,CUST_1,PROD_C,1,2026-06-03
+ORD_904,CUST_3,PROD_A,5,2026-06-04

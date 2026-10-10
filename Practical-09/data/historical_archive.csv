@@ -1,0 +1,5 @@
+user_id,username,activity_score,tier,record_timestamp
+USR_101,Aarav Sharma,78,SILVER,2026-08-01T09:00:00
+USR_102,Priya Patel,92,GOLD,2026-08-01T09:15:00
+USR_103,Rohan Verma,65,BRONZE,2026-08-01T10:00:00
+USR_104,Ananya Iyer,84,SILVER,2026-08-01T10:30:00

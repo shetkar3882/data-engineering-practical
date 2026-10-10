@@ -1,0 +1,4 @@
+product_id,product_name,category,price
+PROD_A,Mechanical Keyboard,Hardware,120.0
+PROD_B,4K Monitor,Hardware,450.0
+PROD_C,Ergonomic Chair,Furniture,250.0
